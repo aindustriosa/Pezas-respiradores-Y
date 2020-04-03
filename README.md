@@ -3,7 +3,9 @@
 
 ## Descripción da peza.
 
-IMAXE!!
+<p align="center">
+  <img src="./img/render-Y.jpg" width="800"/>
+</p>
 
 A peza é unha conexión en “Y” bifurcando saídas ou entradas de aire, conectado a un tubo de respirador ou filtro quirúrxico.
  
@@ -28,7 +30,9 @@ Pode usarse un pé de rei para comprobar as medidas exteriores das saídas e o d
 * Comprobar que non hai ocos entre capas que poidan comprometer a estanqueidade
 * Comprobar medidas e tolerancias:
 
-
+<p align="center">
+  <img src="./img/cotas-Y.jpg" width="800"/>
+</p>
 
 Diámetros tras o primeiro chaflán
 
