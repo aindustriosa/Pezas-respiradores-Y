@@ -16,6 +16,7 @@ A peza é unha conexión en “Y” bifurcando saídas ou entradas de aire, cone
 <p align="left">
   <img src="./img/impresion-Y.jpg" width="400"/>
 </p>
+
 * Brim para adhesión a base
 * No Infill (Recheo 0)
 * Usar 2 capas exteriores e 2 interiores (en caso de nozzle de 0.4mm)
