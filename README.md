@@ -36,14 +36,9 @@ Pode usarse un pé de rei para comprobar as medidas exteriores das saídas e o d
 <p align="center">
   <img src="./img/cotas-Y.jpg" width="800"/>
 </p>
-
+<p style="text-align: center;">
 Diámetros tras o primeiro chaflán
-
+</p>
 		
 NOTA: É preferible primar calidade en lugar de velocidade ou cantidade de pezas.
 
-
-## Descarga arquivos
-STL - link
-
-STEP - link
